@@ -1,1 +1,3 @@
-# django-chat-app
+#Simple Chat App
+
+
